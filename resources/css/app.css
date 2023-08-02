@@ -1,0 +1,16 @@
+@import "/node_modules/primevue/resources/primevue.min.css";
+@import "/node_modules/primevue/resources/themes/lara-light-indigo/theme.css";
+
+.custom-tooltip {
+  --bs-tooltip-bg: var(--bs-primary);
+}
+.bg-blue{
+  background: #2a579a !important;
+}
+.dataTables_length{
+  margin-right: 10px !important;
+}
+.text-blue{
+  color: #0a53be;
+}
+
