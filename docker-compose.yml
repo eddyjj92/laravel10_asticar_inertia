@@ -53,8 +53,6 @@ services:
         environment:
             - PMA_ARBITRARY=1
             - PMA_HOST=${DB_HOST:-db}
-            - PMA_USER=${DB_USERNAME:-homestead}
-            - PMA_PASSWORD=${DB_PASSWORD:-secret}
         networks:
             - test-network
 
