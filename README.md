@@ -1,21 +1,21 @@
-# laravel10_asticar_inertia
-## Portal Web Empresa Astilleros del Caribe
+# Portal Web Empresa Astilleros del Caribe
+## laravel10_asticar_inertia
 
-# Descripción de la Configuración del Proyecto para desplegar sobre Docker-Compose:
+## Descripción de la Configuración del Proyecto para desplegar sobre Docker-Compose:
 
-# Requisitos:
+### Requisitos:
 1-Docker
 2-Docker-Compose
 
-# Servicios:
+### Servicios:
 1-PHP 8.1
 2-Nginx 1.19.4
 3-Mysql 5.4
 4-PhpMyadmin
 
-# Pasos a seguir:
+### Pasos a seguir:
 
-1- Clonar el repositorio con el comando: git clone https://github.com/eddyjj92/laravel10_asticar_inertia.git
+1- Clonar el repositorio con el comando: git clone https://github.com/eddyjj92/laravel10_asticar_inertia.git  
 2- Configurar variables de entorno: cambiar extensión del archivo .env.example a .env, ya todas las variables vienen 
 configuradas por defecto, opcionalmente puede cambiar lo q considere necesario.
 3- Instalar Dependencias con el comando: composer install
